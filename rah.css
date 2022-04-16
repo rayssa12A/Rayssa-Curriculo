@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+main{
+    text-align: center;
+    margin: auto;
+}
+
+table{
+    margin: auto;
+    background-color: #2591F7;
+    border-color: #bfc2c9;
+}
+.top{
+    background-color: #2825F7;
+    color: white;
+}
+a:link{
+    color: black;
+}
+a:hover{
+    color: #5D24ED;
+}
+a:active{
+    color: #19A3F7;
+}
